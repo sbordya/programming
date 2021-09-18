@@ -1,3 +1,5 @@
+Source - [Get Going with Gradle](https://learn.tomgregory.com/courses/get-going-with-gradle)
+
 Gradle - modern, flexible, customisable build automation tool
    * supports single project (single build output) and multi-project build structures (multiple build outputs)
 1. build.gradle
