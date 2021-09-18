@@ -1,5 +1,5 @@
 Gradle - modern, flexible, customisable build automation tool
-    * support single project (single build output) and multi-project build structures (multiple build outputs)
+   * supports single project (single build output) and multi-project build structures (multiple build outputs)
 1. build.gradle
     * plugins (configures project in curtain way and adds additional tasks)
     * build metadata (build info like group and version)
