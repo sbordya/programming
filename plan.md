@@ -1,0 +1,6 @@
+1. [cuelang k8s](https://cuelang.org/docs/tutorials/)
+2. [open source frontend](https://cultofmartians.com)
+3. [open source big data](https://github.com/twitter/util/issues/207)
+4. [nosql](https://www.freecodecamp.org/news/learn-nosql-in-3-hours/)
+5. [rust](https://www.freecodecamp.org/news/rust-in-replit/)
+6. [devops](https://www.youtube.com/watch?v=AxCgZ7yUKrU)
