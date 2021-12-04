@@ -16,6 +16,7 @@ Optional:
 1. https://academy.yandex.ru/dataschool/online
 2. [Scalability & System Design for Developers](https://www.educative.io/path/scalability-system-design)
 3. [Ace the Python Coding Interview](https://www.educative.io/path/ace-python-coding-interview)
-4. https://academy.yandex.ru/dataschool/static/files/shad_program.pdf
-5. https://data.vk.company/static/core/pub/bigdata/docs/2020_MADE_Syllabus.pdf
-6. https://data.vk.company/static/core/pub/bigdata/docs/2020_MADE_demo_Math.pdf
+4. [ml ops](https://www.youtube.com/watch?v=4Vh6Zj5QLU4)
+5. https://academy.yandex.ru/dataschool/static/files/shad_program.pdf
+6. https://data.vk.company/static/core/pub/bigdata/docs/2020_MADE_Syllabus.pdf
+7. https://data.vk.company/static/core/pub/bigdata/docs/2020_MADE_demo_Math.pdf
