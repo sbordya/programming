@@ -20,3 +20,4 @@ Optional:
 5. https://academy.yandex.ru/dataschool/static/files/shad_program.pdf
 6. https://data.vk.company/static/core/pub/bigdata/docs/2020_MADE_Syllabus.pdf
 7. https://data.vk.company/static/core/pub/bigdata/docs/2020_MADE_demo_Math.pdf
+8. http://roadmap.sh
