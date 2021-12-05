@@ -16,3 +16,5 @@ Commands:
 * docker build -t name:version path - build a image from a Dockerfile
 * docker tag image:version image:anyghing - copy image
 * docker commit container_id image_name:image_tag - create new image out of container
+
+Docker-compose - file with description of the desired containers
