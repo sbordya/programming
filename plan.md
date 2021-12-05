@@ -10,6 +10,9 @@
 10. [basics of it](https://www.coursera.org/learn/computer-networking/home/info)
 11. [ml zoomcamp](https://github.com/alexeygrigorev/mlbookcamp-code/tree/master/course-zoomcamp)
 12. https://mlcourse.ai
+13. Solid
+14. Паттерны проектирования
+15. Acid
 
 
 Optional:
