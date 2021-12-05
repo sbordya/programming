@@ -35,3 +35,4 @@ https://google.github.io/opencasebook/
 https://opensource.google/docs/releasing/approval/
 https://opencasebook.org
 https://patents.google.com
+https://choosealicense.com/appendix/
