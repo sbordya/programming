@@ -1,4 +1,4 @@
-1. Java core
+1. Java core; jvm scala/architecture/advantages
 2. Hadoop
 3. sql rdbms (как запись попадает и читается)
 4. Sql mpp: Terradata, Vertica
