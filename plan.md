@@ -4,16 +4,17 @@
 4. Sql mpp: Terradata, Vertica
 5. Data warehouse
 6. Отличия k8s от yarn для спарка
-7. Гит: [freecodecamp](https://www.freecodecamp.org/news/advanced-git-interactive-rebase-cherry-picking-reflog-and-more/), [youtube search](https://www.youtube.com/results?search_query=git+advanced), [book](https://www.youtube.com/results?search_query=git+book)
-8. [open source frontend](https://cultofmartians.com)
-9. [open source big data](https://github.com/twitter/util/issues/207)
-10. [nosql](https://www.freecodecamp.org/news/learn-nosql-in-3-hours/)
-11. [system design](https://www.youtube.com/watch?v=xpDnVSmNFX0&list=PLMCXHnjXnTnvo6alSjVkgxV-VH6EPyvoX)
-12. [devops](https://www.youtube.com/watch?v=AxCgZ7yUKrU)
-13. [Infrastructure as a code](https://www.freecodecamp.org/news/what-is-infrastructure-as-code/)
-14. [basics of it](https://www.coursera.org/learn/computer-networking/home/info)
-15. [ml zoomcamp](https://github.com/alexeygrigorev/mlbookcamp-code/tree/master/course-zoomcamp)
-16. https://mlcourse.ai
+7. Big data architecture
+8. Гит: [freecodecamp](https://www.freecodecamp.org/news/advanced-git-interactive-rebase-cherry-picking-reflog-and-more/), [youtube search](https://www.youtube.com/results?search_query=git+advanced), [book](https://www.youtube.com/results?search_query=git+book)
+9. [open source frontend](https://cultofmartians.com)
+10. [open source big data](https://github.com/twitter/util/issues/207)
+11. [nosql](https://www.freecodecamp.org/news/learn-nosql-in-3-hours/)
+12. [system design](https://www.youtube.com/watch?v=xpDnVSmNFX0&list=PLMCXHnjXnTnvo6alSjVkgxV-VH6EPyvoX)
+13. [devops](https://www.youtube.com/watch?v=AxCgZ7yUKrU)
+14. [Infrastructure as a code](https://www.freecodecamp.org/news/what-is-infrastructure-as-code/)
+15. [basics of it](https://www.coursera.org/learn/computer-networking/home/info)
+16. [ml zoomcamp](https://github.com/alexeygrigorev/mlbookcamp-code/tree/master/course-zoomcamp)
+17. https://mlcourse.ai
 
 
 Optional:
