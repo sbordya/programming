@@ -19,11 +19,12 @@
 
 Optional:
 1. [hacktoberfest](https://hacktoberfest.digitalocean.com/resources/beginners)
-2. https://academy.yandex.ru/dataschool/online
-3. [Scalability & System Design for Developers](https://www.educative.io/path/scalability-system-design)
-4. [Ace the Python Coding Interview](https://www.educative.io/path/ace-python-coding-interview)
-5. [ml ops](https://www.youtube.com/watch?v=4Vh6Zj5QLU4)
-6. https://academy.yandex.ru/dataschool/static/files/shad_program.pdf
-7. https://data.vk.company/static/core/pub/bigdata/docs/2020_MADE_Syllabus.pdf
-8. https://data.vk.company/static/core/pub/bigdata/docs/2020_MADE_demo_Math.pdf
-9. http://roadmap.sh
+2. [de plan](https://www.youtube.com/watch?v=SpaFPPByOhM&t=130s)
+3. https://academy.yandex.ru/dataschool/online
+4. [Scalability & System Design for Developers](https://www.educative.io/path/scalability-system-design)
+5. [Ace the Python Coding Interview](https://www.educative.io/path/ace-python-coding-interview)
+6. [ml ops](https://www.youtube.com/watch?v=4Vh6Zj5QLU4)
+7. https://academy.yandex.ru/dataschool/static/files/shad_program.pdf
+8. https://data.vk.company/static/core/pub/bigdata/docs/2020_MADE_Syllabus.pdf
+9. https://data.vk.company/static/core/pub/bigdata/docs/2020_MADE_demo_Math.pdf
+10. http://roadmap.sh
