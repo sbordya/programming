@@ -6,3 +6,4 @@ Fullstack:
 Useful links:
 1. [Patterns](https://www.patterns.dev/posts/)
 2. Разработка и проектирование высоконагруженных систем: [1](https://www.youtube.com/watch?v=KmIE5K6adus&t=0s), [2](https://www.youtube.com/watch?v=sCm4qUw28y4&t=0s), [3](https://www.youtube.com/watch?v=MG8-HmgOXlk&t=0s)
+3. [JavaScript Execution Context – How JS Works Behind The Scenes](https://www.freecodecamp.org/news/execution-context-how-javascript-works-behind-the-scenes)
