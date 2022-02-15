@@ -28,3 +28,4 @@ Optional:
 8. https://data.vk.company/static/core/pub/bigdata/docs/2020_MADE_Syllabus.pdf
 9. https://data.vk.company/static/core/pub/bigdata/docs/2020_MADE_demo_Math.pdf
 10. http://roadmap.sh
+11. [Учебник по машинному обучению](https://ml-handbook.ru/?utm_source=telegram&utm_medium=social&utm_campaign=ml_book_promo_22&utm_content=renat_alimbekov)
