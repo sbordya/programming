@@ -12,3 +12,4 @@ Useful links:
 6. Разработка и проектирование высоконагруженных систем: [1](https://www.youtube.com/watch?v=KmIE5K6adus&t=0s), [2](https://www.youtube.com/watch?v=sCm4qUw28y4&t=0s), [3](https://www.youtube.com/watch?v=MG8-HmgOXlk&t=0s)
 7. [JavaScript Execution Context – How JS Works Behind The Scenes](https://www.freecodecamp.org/news/execution-context-how-javascript-works-behind-the-scenes)
 8. [WebDev in Revolut](https://medium.com/revolut/the-fundamentals-of-web-development-at-revolut-bb5e2888e84f)
+9. [How to Rock the Coding Interview – Tips That Helped Me Land Job Offers from Google, Airbnb, and Dropbox](https://www.freecodecamp.org/news/coding-interviews-for-dummies-5e048933b82b/)
